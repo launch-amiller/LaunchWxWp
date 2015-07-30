@@ -1,0 +1,15 @@
+button,
+input[type="button"],
+input[type="reset"],
+input[type="submit"] {
+	/*@include font-size(0.75);*/
+
+	&:hover { 
+	  /**/
+  }
+
+	&:active,
+	&:focus { 
+	  /**/
+	}
+}
