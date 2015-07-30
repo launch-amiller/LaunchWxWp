@@ -5,7 +5,11 @@ Launch WxWp - Pax Theme
 Features
 ===
 
+<<<<<<< HEAD
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua...///*****
+=======
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua..
+>>>>>>> a3c0cefa150dfe7315978784ee459850f1af4c41
 
 Lorem ipsum dolor sit amet:
 
